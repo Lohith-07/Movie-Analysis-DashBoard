@@ -98,7 +98,7 @@ An interactive dashboard was created in Power BI to visualize the most important
 
 > Add your dashboard screenshot below after uploading it to the `outputs` folder.
 
-![Dashboard Screenshot](outputs/dashboard_screenshot.png)
+![Dashboard Screenshot](outputs/dashboard_output/dashboard_screenshot.png)
 
 ---
 
